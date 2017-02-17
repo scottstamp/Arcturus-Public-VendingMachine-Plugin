@@ -1,0 +1,5 @@
+{
+  "main": "com.eu.habbo.publicvendingmachine.PublicVendingMachinePlugin",
+  "name": "Arcturus Public VendingMachine Interaction Plugin",
+  "author": "Scott Stamp <scott@hypermine.com>"
+}
